@@ -26,6 +26,6 @@
                 {{ $slot }}
             </div>
         </div>
-        {{dd("hello guest")}}
+       
     </body>
 </html>
