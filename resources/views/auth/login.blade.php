@@ -46,5 +46,4 @@
         </div>
        
     </form>
-    {{dd("hello login")}}
 </x-guest-layout>
