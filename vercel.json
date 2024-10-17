@@ -2,7 +2,7 @@
     "regions": ["hnd1"],
     "builds": [
         {
-            "src": "/api/index.php",
+            "src": "/public/index.php",
             "use": "vercel-php@0.6.2"
         },
         {
