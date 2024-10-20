@@ -13,8 +13,8 @@
 
         <!-- Scripts -->
         {{-- @vite(['resources/css/app.css', 'resources/js/app.js']) --}}
-        <link rel="stylesheet" href="{{ asset('build/assets/app-BhOUt4Pv.css') }}">
-        <script src="{{ asset('build/assets/app-BjCBnTiP.js') }}" defer></script>
+        {{-- <link rel="stylesheet" href="{{ asset('build/assets/app-BhOUt4Pv.css') }}">
+        <script src="{{ asset('build/assets/app-BjCBnTiP.js') }}" defer></script> --}}
     </head>
     <body class="font-sans antialiased">
         <div class="min-h-screen bg-gray-100">
